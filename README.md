@@ -17,7 +17,6 @@ and predict shipment disruptions using machine learning.
 ## Technologies
 
 - Python
-- SQL
 - Power BI
 - Pandas
 - Scikit-learn
