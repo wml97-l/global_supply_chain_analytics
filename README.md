@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/0983001c-1b03-4a2c-aced-2f8ea62fabbe
-
 <div align="center">
 
 # 🌍 Global Supply Chain Analytics
