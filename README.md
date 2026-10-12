@@ -169,4 +169,4 @@ python docs/make_charts.py                        # rebuild README charts and fi
 - Add time-based validation (train on 2024, test on 2025) to check the model holds up over time
 - Publish the dashboards to Power BI Service for a shareable live link
 
-<sub>**Dataset note:** _add the dataset source here (for example a Kaggle link)._ Patterns such as every hurricane shipment being disrupted suggest the data may be simulated, so findings illustrate the method rather than describe a real company's network.</sub>
+<sub>**Dataset:** [Global Supply Chain Risk & Logistics (2024-2026)](https://www.kaggle.com/datasets/nudratabbas/global-supply-chain-risk-and-logistics-2024-2026) on Kaggle (`global_supply_chain_risk_2026.csv`). The dataset is tagged as synthetic, and patterns such as every hurricane shipment being disrupted are consistent with that, so the findings demonstrate the analytical method rather than describe a real company's network.</sub>
