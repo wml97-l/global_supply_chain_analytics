@@ -32,16 +32,18 @@
 
 ---
 
-## 🎬 Dashboard walkthrough
+## 🎬 Dashboard tour
 
 <!--
-  To add a video: record a 30 to 60 second walkthrough of the .pbix in Power BI Desktop
-  (on Windows: Win + Alt + R starts and stops recording), then on github.com edit this
-  README and drag the .mp4 onto the line below. GitHub replaces it with a playable video.
-  Delete this comment afterwards.
+  To make the video play: on github.com edit this README, delete the line below that
+  starts with https://github.com/user-attachments, and drag docs/dashboard-tour.mp4
+  from your computer onto that empty line. GitHub uploads it and inserts a playable
+  video link. Delete this comment afterwards.
 -->
 
 https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-VIDEO-LINK
+
+<sub>A one-minute guided tour of the Power BI dashboards and the Python findings.</sub>
 
 ## 📊 Power BI dashboards
 
@@ -144,6 +146,8 @@ Permutation importance confirms the exploratory findings: **weather and geopolit
 ├── shipment_analysis.png              # Dashboard: shipment and disruption analysis
 └── docs/
     ├── make_charts.py                 # Rebuilds the README charts and prints all figures
+    ├── make_tour_video.py             # Builds the dashboard tour video
+    ├── dashboard-tour.mp4             # One-minute dashboard tour
     └── charts/                        # README charts (light and dark versions)
 ```
 
