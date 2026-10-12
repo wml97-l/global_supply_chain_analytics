@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/0983001c-1b03-4a2c-aced-2f8ea62fabbe
+
 <div align="center">
 
 # 🌍 Global Supply Chain Analytics
@@ -41,7 +45,9 @@
   video link. Delete this comment afterwards.
 -->
 
-https://github.com/user-attachments/assets/REPLACE-WITH-YOUR-VIDEO-LINK
+
+https://github.com/user-attachments/assets/7599841f-fd04-4848-8a64-2bb154925cd9
+
 
 <sub>A one-minute guided tour of the Power BI dashboards and the Python findings.</sub>
 
